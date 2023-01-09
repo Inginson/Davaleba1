@@ -88,3 +88,5 @@ for (i = 0; i < numberArr.length; i++) {
     console.log(`Element is less than provided value and is ODD'`)
   }
 }
+
+// & ამას სიტყვიერად and რომ ვწერდი რაღაცას მთხოვდა მიწითლებდა გვერდით ვერ მივხვდი რატო.  `)` expected მიწერს. 
